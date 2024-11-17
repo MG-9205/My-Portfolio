@@ -1,5 +1,5 @@
 import WordLand from "./assets/images/WordLand.png"
-import MHBlog from "./assets/images/MHBLog.png"
+import MHBlog from "./assets/images/MHBlog.png"
 import MHEcommerce from "./assets/images/MHEcommerce.png"
 import LocalExploere from "./assets/images/LocalExploere.png"
 import MHFit from "./assets/images/MHFit.png"
