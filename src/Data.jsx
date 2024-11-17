@@ -6,7 +6,6 @@ import MHFit from "./assets/images/MHFit.png"
 import mine from "./assets/images/mine.png"
 import Project from "./assets/images/Project.png"
 const logotext = "MANISH GUPTA";
-console.log("Service ID:", import.meta.env.VITE_SERVICE_ID);
 const meta = {
     title: "Manish Gupta",
     description: "I’m Manish Gupta data Full stack devloper,currently working in as a Freelancer",
