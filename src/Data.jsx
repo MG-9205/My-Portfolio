@@ -84,7 +84,7 @@ const dataportfolio = [{
     {
         img:  Project ,
         description: " This website serves as a showcase of my skills, projects, and achievements. Feel free to explore and get to know more about me!",
-        link: "https://github.com/MG-9205/wordLand",
+        link: "https://github.com/MG-9205/My-Portfolio",
     },
     {
         img:  MHFit ,
