@@ -23,7 +23,7 @@ const introdata = {
 
 const dataabout = {
     title: "a bit about my self",
-    aboutme: "I’m a passionate web developer with expertise in building modern, responsive web applications. I specialize in front-end technologies like React, Next.js, and Tailwind CSS, and I have strong experience in backend development using Node.js, Prisma ORM, and PostgreSQL. My projects range from eCommerce platforms to interactive mapping applications. I’m always eager to learn new technologies and create impactful digital experiences.",
+    aboutme: "I'm a tech enthusiast with a strong background in software development and testing. I enjoy building responsive, user-friendly applications using technologies like React, Next.js, and Tailwind CSS, and I have hands-on experience with backend frameworks like Express.js and Django. I'm also well-versed in database systems like SQL and MongoDB, and have practical knowledge of software testing, including manual testing, API testing, and the SDLC process. I'm always eager to learn new technologies and contribute to creating reliable, high-quality software solutions.",
 };
 const worktimeline = [
     {
@@ -40,10 +40,9 @@ const worktimeline = [
 ];
 
 const skills = {
-    frontend: ["JavaScript", "React", "TailWind","Nextjs","HTML","CSS"],
-    backend: ["Django", "Node.js","Express js"],
-    database: ["PostgreSQL", "MongoDB"],
-    other: ["Redux Toolkit", "Firebase", "Git","Supabase","C","Cloudflare"],
+    Development: ["JavaScript", "React", "TailWind","Nextjs","HTML","CSS","Django","Express.js"],
+    database: ["SQL", "MongoDB"],
+    Testing: ["Manual Testing", "SDLC", "Java","API Testing"]
   };
 const Education = [{
         title: "Bachelor of Computer Applications",

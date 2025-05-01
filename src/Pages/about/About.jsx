@@ -61,20 +61,10 @@ import {
   </Col>
   <Col lg="7">
     <div className="skill-category">
-      <h4>Frontend</h4>
+      <h4>Development</h4>
       <Row className="" >
-        {skills.frontend.map((skill, index) => (
+        {skills.Development.map((skill, index) => (
           <Col key={index} xs="4" sm="4" md="4" className="mb-2 ">
-            <p>{skill}</p>
-          </Col>
-        ))}
-      </Row>
-    </div>
-    <div className="skill-category">
-      <h4>Backend</h4>
-      <Row>
-        {skills.backend.map((skill, index) => (
-          <Col key={index} xs="4" sm="4" md="4" className="mb-2">
             <p>{skill}</p>
           </Col>
         ))}
@@ -91,15 +81,16 @@ import {
       </Row>
     </div>
     <div className="skill-category">
-      <h4>Other</h4>
+      <h4>Testing</h4>
       <Row>
-        {skills.other.map((skill, index) => (
+        {skills.Testing.map((skill, index) => (
           <Col key={index} xs="4" sm="4" md="4" className="mb-2">
             <p>{skill}</p>
           </Col>
         ))}
       </Row>
     </div>
+  
   </Col>
 </Row>
 
