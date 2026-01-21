@@ -93,7 +93,6 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "manishgupta9205@gmail.com",
-    YOUR_FONE: "+919205055941",
     description: "I’m a web developer passionate about creating modern, responsive applications that deliver impactful user experiences",
     YOUR_SERVICE_ID:import.meta.env.VITE_SERVICE_ID,
     YOUR_TEMPLATE_ID: import.meta.env.VITE_TEMPLATE_ID,
