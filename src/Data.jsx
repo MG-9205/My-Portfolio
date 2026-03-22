@@ -26,10 +26,20 @@ const dataabout = {
     aboutme: "I'm a tech enthusiast with a strong background in software development and testing. I enjoy building responsive, user-friendly applications using technologies like React, Next.js, and Tailwind CSS, and I have hands-on experience with backend frameworks like Express.js and Django. I'm also well-versed in database systems like SQL and MongoDB, and have practical knowledge of software testing, including manual testing, API testing, and the SDLC process. I'm always eager to learn new technologies and contribute to creating reliable, high-quality software solutions.",
 };
 const worktimeline = [
+      {
+        jobtitle: "Software Tester",
+        where: "WebReinvent Technologies Pvt. Ltd",
+        date: "July 2025 - Present",
+    },
+      {
+        jobtitle: "Software Tester trainee",
+        where: "Qspider",
+        date: "Feb 2025 - June 2025",
+    },
     {
         jobtitle: "Web developer",
         where: "GDG-IINTM",
-        date: "oct 2023 - persent",
+        date: "Oct 2023 - Aug 2025",
     },
     {
         jobtitle: "Full Stack Developer",
@@ -42,12 +52,12 @@ const worktimeline = [
 const skills = {
     Development: ["JavaScript", "React", "TailWind","Nextjs","HTML","CSS","Django","Express.js"],
     database: ["SQL", "MongoDB"],
-    Testing: ["Manual Testing", "SDLC", "Java","API Testing"]
+    Testing: ["Manual Testing", "SDLC", "Java","API Testing","Webdriver IO", "Selenium", "Web and App Testing", "Automation Testing"]
   };
 const Education = [{
-        title: "Bachelor of Computer Applications",
+        title: "Bachelor of Computer Applications (9.3 CGPA)",
         description: "From GGSIPU ",
-        time:"2022 - Persent"
+        time:"Aug 2022 - July 2025"
     },{
         title: "12th-grade(82%)",
         description: "From CBSE ",
