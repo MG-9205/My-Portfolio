@@ -14,16 +14,16 @@ const meta = {
 const introdata = {
     title: "I’m Manish Gupta",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
+        first: "I build modern web application",
+        second: "I ensure software quality through testing",
     },
-    description: "I’m a web developer passionate about creating modern, responsive applications that deliver impactful user experiences",
+    description: "A Software Developer and QA Engineer passionate about building scalable applications and delivering high-quality, reliable user experiences through development and testing",
     your_img_url: mine,
 };
 
 const dataabout = {
     title: "a bit about my self",
-    aboutme: "I'm a tech enthusiast with a strong background in software development and testing. I enjoy building responsive, user-friendly applications using technologies like React, Next.js, and Tailwind CSS, and I have hands-on experience with backend frameworks like Express.js and Django. I'm also well-versed in database systems like SQL and MongoDB, and have practical knowledge of software testing, including manual testing, API testing, and the SDLC process. I'm always eager to learn new technologies and contribute to creating reliable, high-quality software solutions.",
+    aboutme: "I'm a Software Developer and QA Engineer with experience in both application development and software testing. I build responsive and user-friendly web applications using React, Next.js, Tailwind CSS, Express.js, and Django, while also ensuring product quality through manual testing, automation testing, API testing, and defect management. My combined expertise in development and testing helps me create reliable, scalable, and high-performing software solutions. I'm passionate about continuous learning and enjoy contributing across the entire software development lifecycle",
 };
 const worktimeline = [
       {
@@ -103,7 +103,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "manishgupta9205@gmail.com",
-    description: "I’m a web developer passionate about creating modern, responsive applications that deliver impactful user experiences",
+    description: "A Software Developer and QA Engineer passionate about building scalable applications and delivering high-quality, reliable user experiences through development and testing",
     YOUR_SERVICE_ID:import.meta.env.VITE_SERVICE_ID,
     YOUR_TEMPLATE_ID: import.meta.env.VITE_TEMPLATE_ID,
     YOUR_USER_ID:import.meta.env.VITE_USER_ID
